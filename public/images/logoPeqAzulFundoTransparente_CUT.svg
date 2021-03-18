@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="375pt" height="374.999991pt" viewBox="36.563 67.083 284.045 240.229" version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <g>
+      <symbol overflow="visible" id="glyph0-0">
+        <path style="stroke:none;" d=""/>
+      </symbol>
+      <symbol overflow="visible" id="glyph0-1">
+        <path style="stroke:none;" d="M 10.546875 0 L 10.546875 -238.390625 L 106.015625 -238.390625 L 106.015625 -192.046875 L 58.5625 -192.046875 L 58.5625 -154.015625 L 103.515625 -154.015625 L 103.515625 -108.234375 L 58.5625 -108.234375 L 58.5625 0 Z M 10.546875 0 "/>
+      </symbol>
+    </g>
+    <clipPath id="clip1">
+      <path d="M 37.5 68.089844 L 224.25 68.089844 L 224.25 306.589844 L 37.5 306.589844 Z M 37.5 68.089844 "/>
+    </clipPath>
+  </defs>
+  <g id="surface1">
+    <g clip-path="url(#clip1)" clip-rule="nonzero">
+      <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,23.139954%,34.899902%);fill-opacity:1;" d="M 37.5 68.109375 L 37.5 306.570312 L 54.035156 294.257812 L 130.875 236.585938 L 207.714844 294.257812 L 224.25 306.570312 L 224.25 68.109375 Z M 58.25 88.84375 L 203.5 88.84375 L 203.5 265.097656 L 137.035156 215.203125 L 130.875 210.667969 L 124.714844 215.203125 L 58.25 265.097656 Z M 58.25 88.84375 "/>
+    </g>
+    <g style="fill:rgb(0%,23.139954%,34.899902%);fill-opacity:1;">
+      <use transform="matrix(1, 0, 0, 1, 213.4634552001953, 306.0480651855469)" xlink:href="#glyph0-1"/>
+    </g>
+  </g>
+</svg>
